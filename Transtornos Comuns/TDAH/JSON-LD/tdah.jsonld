@@ -1,0 +1,76 @@
+<script type='application/ld+json'> [
+{
+
+"@context": "http://schema.org",
+    "@type": "MedicalCondition",
+    "name": "TDAH",
+    "description": "TDAH significa Transtorno de Déficit de Atenção e Hiperatividade, e é um diagnóstico psiquiátrico.",
+    "code": {
+        "@type": "MedicalCode",
+        "codeValue": "F90.0",
+        "codingSystem": "ICD-10"
+    
+    },
+    "signOrSymptom":[ 
+    {
+    "@type": "MedicalSignOrSymptom",
+    "name":  "desatenção"
+    }, 
+        
+    {
+    "@type": "MedicalSignOrSymptom",
+    "name":  "agitação"
+    },  
+        
+    {
+    "@type": "MedicalSignOrSymptom",
+    "name":  "impulsividade"
+    }
+        
+
+],
+
+"possibleTreatment":
+    {
+        "@type": "MedicalTherapy",
+        "name": "Psicoterapia",
+        "followup": "Procurar os profissionais que poderão lhe auxiliar, como psicólogos e neurologistas"
+    }
+
+}, {
+"@context": "http://schema.org",
+"@type": "Article",
+"mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.anandalima.com.br/project/psicologia-depressao/"
+},
+"headline": "TDAH",
+"articleBody":"TDAH significa Transtorno de Déficit de Atenção e Hiperatividade, e é um diagnóstico psiquiátrico. Os comportamentos apresentados geralmente são desatenção, agitação e impulsividade. Esse transtorno pode levar a problemas emocionais, de relacionamentos, tanto familiar, quanto social, e a pessoa pode apresentar baixo desempenho escolar. Nos casos em que o TDAH pode ser um possível diagnóstico, o ideal é procurar os profissionais que poderão lhe auxiliar, como psicólogos e neurologistas, lembrando que cada caso é único e sempre respeitando a individualidade da pessoa.",
+"image": {
+    "@type": "ImageObject",
+    "url": "http://www.anandalima.com.br/wp-content/uploads/2017/01/tdah.jpg",
+    "height": 276,
+    "width": 497
+},
+"datePublished": "2017-01-31T14:56:00-03:00",
+"dateModified": "2017-09-29T09:00:00-03:00",
+"author": {
+    "@type": "Person",
+    "name": "Ananda Lima"
+},
+"publisher": {
+    "@type": "Organization",
+    "name": "Ananda Lima Psicologia",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.anandalima.com.br/wp-content/uploads/2017/09/logo-ananda-lima-rc.png",
+        "width": 600,
+        "height": 60
+    },
+    "description": "Você sabe o que é TDAH? Conheça mais sobre esse diagnóstico psiquiátrico e como ele tem afetado a vida de milhões de pessoas."
+}
+}
+
+]
+
+</script>

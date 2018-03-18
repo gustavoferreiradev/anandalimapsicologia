@@ -1,0 +1,93 @@
+<script type='application/ld+json'> [
+{
+
+"@context": "http://schema.org",
+    "@type": "MedicalCondition",
+    "name": "Depressão",
+    "description": "O Transtorno Depressivo Maior, mais conhecido como Depressão, tem afetado um grande número de pessoas. Essa condição afeta o sujeito em seu estado de humor e seu emocional",
+    "code": {
+        "@type": "MedicalCode",
+        "codeValue": "F33.8",
+        "codingSystem": "ICD-10"
+    
+    },
+    "signOrSymptom":[ 
+    {
+    "@type": "MedicalSignOrSymptom",
+    "name":  "humor deprimido na maior parte do tempo"
+    }, 
+        
+    {
+    "@type": "MedicalSignOrSymptom",
+    "name":  "irritabilidade"
+    },  
+        
+    {
+    "@type": "MedicalSignOrSymptom",
+    "name":  "perda de interesse"
+    },
+        
+    {
+    "@type": "MedicalSignOrSymptom",
+    "name":  "apatia"
+    },
+    
+    {
+    "@type": "MedicalSignOrSymptom",
+    "name":  "insônia"
+    },
+      
+    {
+    "@type": "MedicalSignOrSymptom",
+    "name":  "excesso de sono"
+    },
+        
+    {
+    "@type": "MedicalSignOrSymptom",
+    "name":  "tristeza"
+    }
+],
+
+"possibleTreatment":
+    {
+        "@type": "MedicalTherapy",
+        "name": "Psicoterapia"
+    }
+
+}, {
+"@context": "http://schema.org",
+"@type": "BlogPosting",
+"mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.anandalima.com.br/project/psicologia-depressao/"
+},
+"headline": "Depressão",
+"articleBody":"O Transtorno Depressivo Maior, mais conhecido como Depressão, tem afetado um grande número de pessoas. Essa condição afeta o sujeito em seu estado de humor e seu emocional. Podendo levar a problemas de relacionamentos familiares e sociais, em seu trabalho, e nas diversas áreas de vida da pessoa. Os sintomas mais comuns da Depressão são o humor deprimido na maior parte do tempo, irritabilidade, perda de interesse, apatia, insônia ou excesso de sono, tristeza, entre outros. O tratamento é feito com psicoterapia, e se necessário, o acompanhamento medicamentoso com um psiquiatra.",
+"image": {
+    "@type": "ImageObject",
+    "url": "http://www.anandalima.com.br/wp-content/uploads/2017/01/depressao.jpg",
+    "height": 360,
+    "width": 540
+},
+"datePublished": "2017-01-11T15:42:00-03:00",
+"dateModified": "2017-09-26T16:00:00-03:00",
+"author": {
+    "@type": "Person",
+    "name": "Ananda Lima"
+},
+"publisher": {
+    "@type": "Organization",
+    "name": "Ananda Lima Psicologia",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "http://www.anandalima.com.br/wp-content/uploads/2017/09/logo-ananda-lima-rc.png",
+        "width": 600,
+        "height": 60
+    },
+    "description": "Conheça mais sobre o que é, como ocorre e como a psicologia trata dos casos, utilizando-se da psicoterapia individual para avaliar."
+}
+}
+
+]
+
+</script>

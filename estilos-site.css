@@ -1,0 +1,40 @@
+h1{
+	color: #333;
+	text-align: center;
+	font-family: 'Lato',"Open Sans",sans-serif;
+	font-weight: regular;
+	font-size: 30px;
+	line-height: 30px;
+
+}
+
+h2{
+	color:#333;
+	text-align:center;
+	font-family: "Open Sans",sans-serif;
+	font-weight: 500;
+	font-size: 26px;
+	line-height: 26px;
+
+}
+
+p{
+	color: #666;
+	text-align: left;
+	font-family: "Open Sans",sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 27px;
+
+}
+
+.titulo-inicial{
+
+	color: #666;
+	text-align: center;
+	font-family: 'Lato',"Open Sans",sans-serif;
+	font-weight: regular;
+	font-size: 32px;
+	line-height: 77px;
+
+}

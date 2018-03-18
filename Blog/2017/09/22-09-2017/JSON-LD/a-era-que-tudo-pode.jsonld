@@ -1,0 +1,34 @@
+<script type='application/ld+json'>
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http://www.anandalima.com.br/psicologia/psicologia-era-que-tudo-pode/"
+        },
+        "headline": "A era que tudo pode",
+        "image": {
+            "@type": "ImageObject",
+            "url": "http://www.anandalima.com.br/wp-content/uploads/2017/09/adolescente.jpg",
+            "height": 672,
+            "width": 900
+        },
+        "datePublished": "2017-09-25T09:52:00-03:00",
+        "dateModified": "2017-09-27T11:35:00-03:00",
+        "author": {
+            "@type": "Person",
+            "name": "Ananda Lima"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Ananda Lima Psicologia",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "http://www.anandalima.com.br/wp-content/uploads/2017/09/logo-ananda-lima-rc.png",
+                "width": 600,
+                "height": 60
+            },
+            "description": "Confira mais sobre o que penso sobre a atual 'era que tudo pode' no qual a forma de educar os filhos mudou bastante e como a psicologia vê isso."
+        }
+    }
+</script>

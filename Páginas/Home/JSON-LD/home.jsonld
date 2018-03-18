@@ -1,0 +1,74 @@
+<script type='application/ld+json'> 
+{
+"@context": "http://schema.org",
+    "@type": "MedicalClinic",
+    "name": "Ananda Lima Psicologia",
+    "url": "http://www.anandalima.com.br",
+    "sameAs": [
+        "https://www.facebook.com/Ananda-Lima-Psicologia-1355394897853074/",
+       "https://plus.google.com/114424002832972559808",
+        "https://www.instagram.com/anandalimapsicologia/"
+    ],
+    "logo": "http://www.anandalima.com.br/wp-content/uploads/2017/03/favicon-ananda-lima.png",
+
+    "availableService": {
+        "@type": "MedicalTherapy",
+        "name": "Psicoterapia"
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "BR",
+        "addressLocality": "Curitiba",
+        "addressRegion": "Paraná",
+        "streetAddress": "Avenida Vicente Machado, 160 - 10º Andar - Sala 103 - Centro"
+    },
+            "contactPoint": {
+            "@type": "contactPoint",
+            "areaServed": "Região Metropolitana de Curitiba",
+            "contactType": "reservations",
+            "email": "anandalima@anandalima.com.br",
+            "telephone": "+5541991797973",
+            "availableLanguage": "Portuguese"
+        },
+        "founder":{
+            "@type": "Person",
+            "@id": "http://www.anandalima.com.br",
+            "name": "Ananda Lima",
+            "affiliation":{
+                "@type": "Organization",
+                "@id":"http://www.portal.crppr.org.br",
+                "name": "Conselho Regional de Psicologia 8ª Região",
+                "alternateName": "CRP-PR"
+            },
+            "jobTitle": "Psicóloga",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "@id": "http://www.up.edu.br",
+                "name": "Universidade Positivo",
+                "alternateName": "UP",
+                "sameAs": [
+                    "https://www.facebook.com/universidadepositivo",
+                    "https://plus.google.com/+UniversidadePositivoUP",
+                    "http://www.linkedin.com/edu/school?id=42233&trk=ty",
+                    "https://twitter.com/univ_positivo",
+                    "https://www.youtube.com/user/MKTUP"
+                ]               
+            
+        },
+            "parent": [
+            {
+                "name": "Ivan Lima",
+                "@id": "https://www.facebook.com/ivanfernando.lima",
+                "gender": "Male"
+            
+            }, {
+                "name": "Hilmara Rotava Lima",
+                "@id": "https://www.facebook.com/hilmararotava.lima",
+                "gender": "Female"
+            }
+    ]
+            
+}
+   
+}
+</script>
